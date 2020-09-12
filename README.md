@@ -1,7 +1,7 @@
 <p align="center">
     <a href="">
         <!-- update logo -->
-        <img alt="snapsaver" src="/src/static/images/snap-orange-90.png" width ="100">
+        <img alt="image" src="https://thiswebdeveloper.com/wp-content/uploads/2018/02/This_Web_Developer-Logo-TWD-800.png" width ="500" height= "200">
     </a>
 </p>
 
