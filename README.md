@@ -2,7 +2,7 @@
 <a href="http://bereketsemagn.tk" target="_blank"><img src="https://img.shields.io/badge/bereket-loves%20to%20code!-blue" width= "150"></a>
 
 I'm Bereket, aka BK, and I'm a Web Developer, that's passionate about sharing knowledge, learning, web development, and coding! <br>
-I'm currently 12 years old, and a contributor to [**@portainer**](https://github.com/portainer), [**@whatwg**](https://github.com/whatwg), [**@Compass**], and (https://github.com/Compass) [**@iron-io**](https://github.com/iron-io). <br>
+I'm currently 12 years old, and a contributor to [**@portainer**](https://github.com/portainer), [**@whatwg**](https://github.com/whatwg), [**@compass**](https://github.com/compass), and [**@iron-io**](https://github.com/iron-io). <br>
 I love to write about my coding journey, you should check out my [**blog.**](https://bereketsemagn.tk/blog)
 
 - 💬 ***Ask me about:*** Documentation, Web Development, and Coding.
