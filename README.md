@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
     <a href="">
         <!-- update logo -->
         <img alt="image" src="https://i.ibb.co/LJt2fR1/profileintro.jpg" width ="800" height= "400">
