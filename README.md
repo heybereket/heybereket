@@ -1,5 +1,5 @@
 ### Hey, nerds! 👋
-<a href="http://github.com/bereketsemagn" target="_blank"><img src="https://img.shields.io/badge/bereket-loves%20to%20code!-blue" width= "150"></a>
+<a href="http://bereketsemagn.tk" target="_blank"><img src="https://img.shields.io/badge/bereket-loves%20to%20code!-blue" width= "150"></a>
 
 I'm Bereket, also known as BK, and I'm a Web Developer, that's passionate about sharing knowledge, learning, web development, and coding! <br>
 I'm currently 12 years old, and a contributor to @portainer, @whatwg, @Compass, and @iron-io. <br>
