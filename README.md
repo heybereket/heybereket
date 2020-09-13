@@ -1,5 +1,8 @@
 ### Hey, nerds! 👋
 <a href="http://bereketsemagn.tk" target="_blank"><img src="https://img.shields.io/badge/bereket-loves%20to%20code!-blue" width= "150"></a>
+<img src="https://gpvc.arturio.dev/bereketsemagn" alt="profile views">
+
+---
 
 I'm Bereket, aka BK, and I'm a Web Developer, that's passionate about sharing knowledge, learning, web development, and coding! <br>
 I love to write about my coding journey, you should check out my [**blog.**](https://bereketsemagn.tk/blog)
