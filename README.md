@@ -2,12 +2,12 @@
 
 <p>Welcome to my introduction page!</br> I'm Bereket, a Web Developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThgzf99uwyf1uCXCle6B2CBwCVvvhCfXftYw&usqp=CAU" width="13"/> <b>Nairobi, Kenya.</b>, currently living in <img src="https://www.pinclipart.com/picdir/big/375-3753907_brought-to-you-by-canada-flag-png-icon.png" width="13"/> <b>Torono, Canada.</b>. </p>
 
----
-
 <h3>Things I code with</h3>
 
 I'm Bereket, aka BK, and I'm a Web Developer, that's passionate about sharing knowledge, learning, web development, and coding! <br>
 I love to write about my coding journey, you should check out my [**blog.**](https://bereketsemagn.tk/blog)
+
+---
 
 - 🔭 I’m currently working on my health and making customers happy
 - 🌱 I’m currently [learning AWS](https://www.swyx.io/writing/hello-aws/)
