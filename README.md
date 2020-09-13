@@ -1,7 +1,7 @@
 <p align="left">
     <a href="">
         <!-- update logo -->
-        <img alt="image" src="https://i.ibb.co/GxKJvcC/profileintrofinall.jpg" width ="1050" height= "450">
+        <img alt="image" src="https://i.ibb.co/GxKJvcC/profileintrofinall.jpg" width ="600" height= "300">
     </a>
 </
 
