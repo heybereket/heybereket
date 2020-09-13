@@ -10,7 +10,7 @@ I love to write about my coding journey, you should check out my [**blog**](http
 - 😄 ***Pronouns:*** He/him
 - ⚡ ***Fun fact:*** I'm 12 years old, and I already know 3 coding languages!
 
-### Useful Links 💙
+### 💙 Useful Links
 
 - [Portfolio](https://bereketsemagn.tk/)
 - [Blog](https://bereketsemagn.tk/blog)
