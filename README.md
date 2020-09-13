@@ -5,6 +5,8 @@
     </a>
 </
 
+<br>
+
 ### Hey everyone! 👋
 
 I'm a Web Developer, known as Bereket Semagn. I'm passionate about sharing knowledge, learning, web development, and coding!
