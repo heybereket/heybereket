@@ -1,13 +1,4 @@
-<p align="left">
-    <a href="">
-        <!-- update logo -->
-        <img alt="image" src="https://i.ibb.co/GxKJvcC/profileintrofinall.jpg" width ="600" height= "300">
-    </a>
-</
-
-<br>
-
-### Hey everyone! 👋
+### Hey, nerds! 👋
 
 I'm a Web Developer, known as Bereket Semagn. I'm passionate about sharing knowledge, learning, web development, and coding! <br>
 I'm currently a contributor to @portainer, @whatwg, @Compass, and @iron-io. <br>
