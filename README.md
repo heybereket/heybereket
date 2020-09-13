@@ -1,7 +1,7 @@
 <p align="center">
     <a href="">
         <!-- update logo -->
-        <img alt="image" src="https://thiswebdeveloper.com/wp-content/uploads/2018/02/This_Web_Developer-Logo-TWD-800.png" width ="500" height= "200">
+        <img alt="image" src="https://miro.medium.com/max/3960/0*HICLyAdNSIyT0ODU.jpg" width ="800" height= "800">
     </a>
 </p>
 
