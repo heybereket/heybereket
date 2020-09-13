@@ -1,9 +1,9 @@
 <p align="left">
     <a href="">
         <!-- update logo -->
-        <img alt="image" src="https://i.ibb.co/LJt2fR1/profileintro.jpg" width ="1050" height= "500">
+        <img alt="image" src="https://i.ibb.co/LJt2fR1/profileintro.jpg" width ="1050" height= "450">
     </a>
-</p>
+</
 
 ### Hey everyone! 👋
 
