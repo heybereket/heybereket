@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width= "30">Hey, nerds!</h1>
-<a href="http://bereketsemagn.tk" target="_blank"><img src="https://img.shields.io/badge/bereket-loves%20to%20code!-blue" width= "150"></a>
-<img src="https://gpvc.arturio.dev/bereketsemagn" alt="profile views">
-
 ---
+
+<p>Welcome to my ntroduction page!</br> I'm Bereket, a Web Developer from <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThgzf99uwyf1uCXCle6B2CBwCVvvhCfXftYw&usqp=CAU" width="13"/> <b>Nairobi, Kenya.</b>, currently living in <img src="https://www.pinclipart.com/picdir/big/375-3753907_brought-to-you-by-canada-flag-png-icon.png" width="13"/> <b>Torono, Canada.</b>. </p>
+<h3>Things I code with</h3>
 
 I'm Bereket, aka BK, and I'm a Web Developer, that's passionate about sharing knowledge, learning, web development, and coding! <br>
 I love to write about my coding journey, you should check out my [**blog.**](https://bereketsemagn.tk/blog)
