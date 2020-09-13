@@ -9,8 +9,8 @@
 
 ### Hey everyone! 👋
 
-I'm a Web Developer, known as Bereket Semagn. I'm passionate about sharing knowledge, learning, web development, and coding!
-I'm currently a contributor to @portainer, @whatwg, @Compass, and @iron-io
+I'm a Web Developer, known as Bereket Semagn. I'm passionate about sharing knowledge, learning, web development, and coding! <br>
+I'm currently a contributor to @portainer, @whatwg, @Compass, and @iron-io. <br>
 I love to write about my coding journey, you should check out my **blog** at (https://bereketsemagn.tk/blog)
 
 - 💬 ***Ask me about:*** Documentation, Web Development, and Coding.
