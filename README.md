@@ -68,5 +68,3 @@
 		 src="https://www.openprocessing.org/assets/img/logo/logo_36x30_dark@2x.png">
 </a>
   </p>
-  
-  <img align='right' src='https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg' width='500"'>
