@@ -24,7 +24,7 @@
 
 ---
 
-<img align='right' src="https://media.istockphoto.com/vectors/young-boy-studying-at-desk-vector-id1024540328?k=6&m=1024540328&s=612x612&w=0&h=dXoiGBZ0NnExUd1ne8hfwDV3lAjiDfCcqXDpKpVC3Jc=" width='175"'>
+<img align='right' src="https://i.ibb.co/9tz2sZm/bitmoji-1.png" width='150"'>
 
 <h3> 🧐 About</h3>
 - 🌱 I’m currently working on my side projects, cooking skills, and learning new stuff. <br>
