@@ -78,7 +78,7 @@
 		 alt="My StackOverflow Profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg">
 </a>
-		<a href="https://leetcode.com/bereketsemagn">
+		<a href="https://leetcode.com/bereketsemagn" target="_blank">
 	<img width="32" align="left"
 		 alt="My LeetCode Profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg">
