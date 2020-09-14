@@ -7,7 +7,7 @@
 ---
 
 <h3 align="center"
-<h3>Languages, Frameworks, Tools, Abilities</h3>
+<h3>Languages, Frameworks, Tools, and Abilities</h3>
 
 <p align="center"
 <p>
