@@ -24,7 +24,7 @@
 
 ---
 
-<img align='right' src="https://i.ibb.co/9tz2sZm/bitmoji-1.png" width='170"'>
+<img align='right' src="https://i.ibb.co/9tz2sZm/bitmoji-1.png" width='150"'>
 
 <h3> 🧐 About</h3>
 - 🌱 I’m currently working on my side projects, cooking skills, and learning new stuff. <br>
