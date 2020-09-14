@@ -45,6 +45,16 @@
 </p>
 </details>
 
+<h3> 🌙 📈 GitHub Stats</h3>
+
+<details><summary> Projects</summary>
+<p>    
+	
+  https://github-readme-stats.vercel.app/api?username=bereketsemagn&show_icons=true&hide_border=true
+
+</p>
+</details>
+
 ---
 
 <h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me!</h3>
