@@ -48,7 +48,7 @@
 <details><summary> GitHub Stats</summary>
 <p>    
 	
-  https://github-readme-stats.vercel.app/api?username=bereketsemagn&show_icons=true&hide_border=true
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bereketsemagn)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 </details>
