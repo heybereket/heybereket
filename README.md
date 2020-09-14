@@ -32,6 +32,7 @@
 
 <h3>Where to find me</h3>
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 <p><a href="https://github.com/bereketsemagn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> <a href="https://medium.com/@semagnbereket" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
   <img src="https://github-readme-stats.vercel.app/api?username=bereketsemagn&show_icons=true&count_private=true" alt="bereketsemagn" />
