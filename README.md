@@ -21,7 +21,7 @@
 
 <h3>My Skills</h3>
 
-<div align="center">
+<div align="left">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereketsemagn&layout=compact&hide_title=1&card_width=300">
 </div>
 
