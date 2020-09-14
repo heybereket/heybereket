@@ -31,7 +31,7 @@
 - 👯 I’m looking to contribute on a potential project <br>
 - 💬 Ask me about Web Development, Coding, AI, and API. <br>
 - 😄 Pronouns: He/him <br>
-- ⚡ Fun fact: I was the team captain of a coding team, we made projects to present to different people. <br> 
+- ⚡ Fun fact: I was the team captain of a coding team, that created games. <br> 
 
 <h3> 🧑‍🚀 Fun stuff</h3>
 
