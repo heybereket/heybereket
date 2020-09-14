@@ -25,6 +25,8 @@
 
 ---
 
+<img align='right' src="https://i.ibb.co/9tz2sZm/bitmoji-1.png" width='185"'>
+
 - 🌱 I’m currently working on my side projects, cooking skills, and learning new stuff.
 - 👯 I’m looking to contribute on a potential project
 - 💬 Ask me about Web Development, Coding, AI, and API.
