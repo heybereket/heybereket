@@ -1,6 +1,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width= "30"> Hey, nerds!</h1>
+# Hey, geeks! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width= "30">
 <p>I'm Bereket, a Web Developer from <img src="https://e7.pngegg.com/pngimages/54/55/png-clipart-regions-of-ethiopia-flag-of-ethiopia-ethiopian-empire-transitional-government-of-ethiopia-china-flag-miscellaneous-flag.png" width="13"/> <b>Ethiopia</b>, living in <img src="https://www.pinclipart.com/picdir/big/375-3753907_brought-to-you-by-canada-flag-png-icon.png" width="13"/> <b>Torono, Canada.</b> </p>
 <p>I'm passionate about science, space, artifical intelligence 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way. I am working on some side projects, learning a couple new dishes, and trying to learn a few stuff.</p>
 
