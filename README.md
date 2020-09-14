@@ -30,8 +30,8 @@
 - 🌱 I’m currently working on my side projects, cooking skills, and learning new stuff. <br>
 - 👯 I’m looking to contribute on a potential project <br>
 - 💬 Ask me about Web Development, Coding, AI, and API. <br>
-😄 Pronouns: He/him <br>
-⚡ Fun fact: I once got pooped on my head by a bird at a island.
+- 😄 Pronouns: He/him <br>
+- ⚡ Fun fact: I once got pooped on my head by a bird at a island.
 
 ---
 
