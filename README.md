@@ -31,7 +31,6 @@
 🌱 I’m currently working on my side projects, cooking skills, and learning new stuff. <br>
 👯 I’m looking to contribute on a potential project <br>
 💬 Ask me about Web Development, Coding, AI, and API. <br>
-📫 How to reach me: `bsemagn.dev@gmail.com` or `https://bereketsemagn.tk` <br>
 😄 Pronouns: He/him <br>
 ⚡ Fun fact: I once got pooped on my head by a bird at a island.
 
