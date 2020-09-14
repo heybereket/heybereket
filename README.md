@@ -2,7 +2,7 @@
 
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width= "30"> Hey, nerds!</h1>
 <p>I'm Bereket, a Web Developer born in <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThgzf99uwyf1uCXCle6B2CBwCVvvhCfXftYw&usqp=CAU" width="13"/> <b>Nairobi, Kenya.</b>, currently living in <img src="https://www.pinclipart.com/picdir/big/375-3753907_brought-to-you-by-canada-flag-png-icon.png" width="13"/> <b>Torono, Canada.</b>. </p>
-<p>I'm currently a web developer based in <img src="https://www.iconfinder.com/data/icons/landmark-9/256/2-512.png" width="30"> Toronto, Canada. I'm passionate about Science and Pyshics, Artifical Intelligence 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way. I am working on some side projects, learning a couple new dishes, and trying to learn a few stuff.</p>
+<p>I'm currently a web developer based in <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4hfLFY3CURca_k1y9YipDqRNIN1gEZUJozg&usqp=CAU" width="25"> Toronto, Canada. I'm passionate about Science and Pyshics, Artifical Intelligence 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way. I am working on some side projects, learning a couple new dishes, and trying to learn a few stuff.</p>
 
 ---
 
