@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently working on my side projects, cooking skills, and learning new stuff.
 - 👯 I’m looking to contribute on a potential project
-- 💬 Ask me about Web Development, Coding, Artifical Intelligence (AI), or API.
+- 💬 Ask me about Web Development, Coding, AI, and API.
 - 📫 How to reach me: `bsemagn.dev@gmail.com` or `https://bereketsemagn.tk`
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I once got pooped on my head by a bird at a island.
