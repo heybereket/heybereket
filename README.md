@@ -45,9 +45,7 @@
 </p>
 </details>
 
-<h3> 🌙 📈 GitHub Stats</h3>
-
-<details><summary> Projects</summary>
+<details><summary> GitHub Stats</summary>
 <p>    
 	
   https://github-readme-stats.vercel.app/api?username=bereketsemagn&show_icons=true&hide_border=true
