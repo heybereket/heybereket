@@ -65,5 +65,11 @@
 		 alt="My GMail profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
 </a>
+		<a href="https://leetcode.com/bereketsemagn">
+	<img width="32" align="left"
+		 alt="My LeetCode Profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg">
+</a>
 
   </p>
+ 
