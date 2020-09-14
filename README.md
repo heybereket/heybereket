@@ -30,15 +30,9 @@
 
 <h3>My Projects</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/bereketsemagn/text-file-reader-api">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bereketsemagn&repo=text-file-reader-api" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&"/>
-</a>
-</div>
 
 ---
 
