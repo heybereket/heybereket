@@ -33,18 +33,14 @@
 - 😄 Pronouns: He/him <br>
 - ⚡ Fun fact: I once got pooped on my head by a bird at a island.     
     
-    
-<details>    
-  <summary><b>🧑‍🚀 Projects</b></summary>  
-
-  <br />
-  <table>
+<details><summary>🧑‍🚀 Projects</summary>
+<p>    
 	
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bereketsemagn&repo=bereketsemagn)](https://github.com/bereketsemagn/bereketsemagn)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bereketsemagn&repo=site)](https://github.com/bereketsemagn/site)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bereketsemagn&repo=text-file-reader-api)](https://github.com/bereketsemagn/text-file-reader-api)
-  </table>
-  <br />
+
+</p>
 </details>
 
 ---
