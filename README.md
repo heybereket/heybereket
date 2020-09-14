@@ -18,20 +18,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-
 ---
 
 - 🔭 I’m currently working on my health and making customers happy
@@ -48,8 +34,8 @@
 - 😄 ***Pronouns:*** He/him
 - ⚡ ***Fun fact:*** I'm 12 years old, and I already know 3 coding languages!
 
-### 💙 Useful Links
+---
 
-- [Portfolio](https://bereketsemagn.tk/)
-- [Blog](https://bereketsemagn.tk/blog)
-- [GitHub](https://github.com/bereketsemagn)
+<h3>Where to find me</h3>
+<p><a href="https://github.com/bereketsemagn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /><a href="https://medium.com/@semagnbereket" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
