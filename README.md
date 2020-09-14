@@ -33,7 +33,7 @@
 - 😄 Pronouns: He/him <br>
 - ⚡ Fun fact: I once got pooped on my head by a bird at a island. <br> 
 
-<h3> 🧑‍🚀 Fun stuff</h3> <br>
+<h3> 🧑‍🚀 Fun stuff</h3>
 
 <details><summary> Projects</summary>
 <p>    
