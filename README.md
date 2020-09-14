@@ -1,4 +1,4 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://gist.githubusercontent.com/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif' width='200"'>
 
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width= "30"> Hey, nerds!</h1>
 <p>I'm Bereket, a Web Developer born in <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThgzf99uwyf1uCXCle6B2CBwCVvvhCfXftYw&usqp=CAU" width="13"/> <b>Nairobi, Kenya.</b>, currently living in <img src="https://www.pinclipart.com/picdir/big/375-3753907_brought-to-you-by-canada-flag-png-icon.png" width="13"/> <b>Torono, Canada.</b>. </p>
