@@ -3,7 +3,9 @@
 <p>Welcome to my introduction page!</br> I'm Bereket, a Web Developer born in <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThgzf99uwyf1uCXCle6B2CBwCVvvhCfXftYw&usqp=CAU" width="13"/> <b>Nairobi, Kenya.</b>, currently living in <img src="https://www.pinclipart.com/picdir/big/375-3753907_brought-to-you-by-canada-flag-png-icon.png" width="13"/> <b>Torono, Canada.</b>. </p>
 <p>I'm currently a web developer based in 🌁 Toronto, Canada. I am working on some side projects, learning a couple new dishes, and trying to learn a few stuff.</p>
 
-<h3>Things I code with</h3>
+---
+
+<h3>Languages, Frameworks, Tools, Abilities</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
