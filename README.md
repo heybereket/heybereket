@@ -21,19 +21,12 @@
 
 ---
 
-- 🔭 I’m currently working on my health and making customers happy
-- 🌱 I’m currently [learning AWS](https://www.swyx.io/writing/hello-aws/)
-- 👯 I’m looking to collaborate on a potential podcast
-- 🤔 I’m looking for help with youtube/site redesign
-- 💬 Ask me about [Svelte](https://www.swyx.io/writing/svelte-why/) and [React](https://www.swyx.io/speaking/react-hooks/) and [AWS Amplify](https://www.swyx.io/writing/hello-aws)!
-- 📫 How to reach me: `swyx at hey dot com`
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I was once detained in Cuba on suspicion of being a spy
-
-- 💬 ***Ask me about:*** Documentation, Web Development, and Coding.
-- 📫 ***How to reach me:*** Email: bsemagn.dev@gmail.com
-- 😄 ***Pronouns:*** He/him
-- ⚡ ***Fun fact:*** I'm 12 years old, and I already know 3 coding languages!
+- 🌱 I’m currently working on my side projects, cooking skills, and learning new stuff.
+- 👯 I’m looking to contribute on a potential project
+- 💬 Ask me about Web Development, Coding, Artifical Intelligence (AI), or API.
+- 📫 How to reach me: `bsemagn.dev@gmail.com` or `https://bereketsemagn.tk`
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I once got pooped on my head by a bird at a island.
 
 ---
 
