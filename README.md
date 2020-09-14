@@ -1,7 +1,42 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width= "30"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">Hey, nerds!</h1>
 
 <p>Welcome to my introduction page!</br> I'm Bereket, a Web Developer born in <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThgzf99uwyf1uCXCle6B2CBwCVvvhCfXftYw&usqp=CAU" width="13"/> <b>Nairobi, Kenya.</b>, currently living in <img src="https://www.pinclipart.com/picdir/big/375-3753907_brought-to-you-by-canada-flag-png-icon.png" width="13"/> <b>Torono, Canada.</b>. </p>
 <p>I'm currently a web developer based in 🌁 Toronto, Canada. I am working on some side projects, learning a couple new dishes, and trying to learn a few stuff.</p>
+
+<p align="center">
+<a href="https://github.com/you-create">
+	<img width="32" align="left"
+		 alt="My GitHub profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+</a>
+<a href="https://dribbble.com/you_create">
+	<img width="32" align="left"
+		 alt="My Dribbble profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg">
+</a>
+<a href="https://unsplash.com/@you_create">
+	<img width="32" align="left"
+		 alt="My Unsplash profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unsplash.svg">
+</a>
+<a href="https://medium.com/@you_create">
+	<img width="32" align="left"
+		 alt="My Medium profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">
+</a>
+<a href="https://www.instagram.com/you_create.designs">
+	<img width="32" align="left"
+		 alt="My Instagram profile"
+		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+</a>
+<a href="https://www.openprocessing.org/user/206009">
+	<img width="32" align="left"
+		 alt="My OpenProcessing profile"
+		 src="https://www.openprocessing.org/assets/img/logo/logo_36x30_dark@2x.png">
+</a>
+  </p>
 
 ---
 
