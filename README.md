@@ -1,4 +1,4 @@
-<h1>Hey, nerds!</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width= "30"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width= "30"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">Hey, nerds!</h1>
 
 <p>Welcome to my introduction page!</br> I'm Bereket, a Web Developer born in <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcThgzf99uwyf1uCXCle6B2CBwCVvvhCfXftYw&usqp=CAU" width="13"/> <b>Nairobi, Kenya.</b>, currently living in <img src="https://www.pinclipart.com/picdir/big/375-3753907_brought-to-you-by-canada-flag-png-icon.png" width="13"/> <b>Torono, Canada.</b>. </p>
 <p>I'm currently a web developer based in 🌁 Toronto, Canada. I am working on some side projects, learning a couple new dishes, and trying to learn a few stuff.</p>
