@@ -38,9 +38,9 @@
 <details><summary> Projects</summary>
 <p>    
 	
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bereketsemagn&repo=bereketsemagn)](https://github.com/bereketsemagn/bereketsemagn) <br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bereketsemagn&repo=bereketsemagn)](https://github.com/bereketsemagn/bereketsemagn)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bereketsemagn&repo=site)](https://github.com/bereketsemagn/site) <br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bereketsemagn&repo=text-file-reader-api)](https://github.com/bereketsemagn/text-file-reader-api) <br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bereketsemagn&repo=text-file-reader-api)](https://github.com/bereketsemagn/text-file-reader-api)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bereketsemagn&repo=devfolios)](https://github.com/bereketsemagn/devfolios) <br>
 
 </p>
