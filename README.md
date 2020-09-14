@@ -34,7 +34,7 @@
 
 ---
 
-<h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">Connect with me!</h3>
+<h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me!</h3>
 
 <p align="center">
 <a href="https://github.com/you-create">
