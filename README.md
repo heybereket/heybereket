@@ -19,25 +19,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>My Skills</h3>
-
-<div align="left">
-</a>
-<a href="https://github.com/bereketsemagn/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bereketsemagn&layout=compact" />
-</a>
-
-<h3>My Projects</h3>
-
-<a href="https://github.com/bereketsemagn">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bereketsemagn&repo=site" />
-</a>    
-
-<a href="https://github.com/bereketsemagn/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bereketsemagn&repo=text-file-reader-api" />
-</a>    
-
 ---
 
 - 🌱 I’m currently working on my side projects, cooking skills, and learning new stuff.
