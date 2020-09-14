@@ -33,7 +33,7 @@
 - 😄 Pronouns: He/him <br>
 - ⚡ Fun fact: I was the team captain of a coding team, that created games. <br> 
 
-<h3> 🧑‍🚀 Fun stuff</h3>
+<h3>🚀 Fun stuff</h3>
 
 <details><summary> Projects</summary>
 <p>    
