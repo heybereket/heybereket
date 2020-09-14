@@ -48,9 +48,9 @@
 		 alt="My Medium profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">
 </a>
-	<a href="bsemagn.dev@gmail.com">
+	<a href="mailto:bsemagn.dev@gmail.com">
 	<img width="32" align="left"
-		 alt="My Medium profile"
+		 alt="My GMail profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
 </a>
 
