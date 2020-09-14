@@ -19,6 +19,12 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<h3>My Skills</h3>
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereketsemagn&layout=compact&hide_title=1&card_width=300">
+</div>
+
 ---
 
 - 🌱 I’m currently working on my side projects, cooking skills, and learning new stuff.
