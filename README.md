@@ -68,5 +68,3 @@
 		 src="https://www.openprocessing.org/assets/img/logo/logo_36x30_dark@2x.png">
 </a>
   </p>
-  
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
