@@ -33,26 +33,6 @@
 - 😄 Pronouns: He/him <br>
 - ⚡ Fun fact: I was the team captain of a coding team, that created games. <br> 
 
-<h3>🚀 Fun stuff</h3>
-
-<details><summary> Projects</summary>
-<p>    
-	
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bereketsemagn&repo=bereketsemagn)](https://github.com/bereketsemagn/bereketsemagn)  <br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bereketsemagn&repo=site)](https://github.com/bereketsemagn/site)  <br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bereketsemagn&repo=text-file-reader-api)](https://github.com/bereketsemagn/text-file-reader-api)  <br>
-
-</p>
-</details>
-
-<details><summary> GitHub Stats</summary>
-<p>    
-	
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bereketsemagn)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-</details>
-
 ---
 
 <h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me!</h3>
