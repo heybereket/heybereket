@@ -30,7 +30,11 @@
 
 <h3>My Projects</h3>
 
-<a href="https://github.com/bereketsemagn/text-file-reader-api">
+<a href="https://github.com/bereketsemagn">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bereketsemagn&repo=site" />
+</a>    
+
+<a href="https://github.com/bereketsemagn/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bereketsemagn&repo=text-file-reader-api" />
 </a>    
 
