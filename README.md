@@ -24,17 +24,6 @@
 
 ---
 
-<img align='right' src="https://i.ibb.co/9tz2sZm/bitmoji-1.png" width='270"'>
-
-<h3> 🧐 About</h3>
-- 🌱 I’m currently working on my side projects, cooking skills, and learning new stuff. <br>
-- 👯 I’m looking to contribute on a potential project <br>
-- 💬 Ask me about Web Development, Coding, AI, and API. <br>
-- 😄 Pronouns: He/him <br>
-- ⚡ Fun fact: I was the team captain of a coding team, that created games. <br> 
-
----
-
 <h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me!</h3>
 
 <p align="center">
