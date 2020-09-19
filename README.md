@@ -20,14 +20,14 @@ My interest in software development, and creativity led me to keep contributing 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-45b8d8?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-45b8d8?style=flat-square&logo=Bootstrap&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /> <br>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <br>
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-43853d?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="LaTex" src="https://img.shields.io/badge/-LaTex-43853d?style=flat-square&logo=LaTex&logoColor=white" />
   <img alt="iOS" src="https://img.shields.io/badge/-iOS-43853d?style=flat-square&logo=iOS&logoColor=white" />
   <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-43853d?style=flat-square&logo=Adobe&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-43853d?style=flat-square&logo=Android&logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-43853d?style=flat-square&logo=Windows&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-43853d?style=flat-square&logo=Windows&logoColor=white" /> <br>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-43853d?style=flat-square&logo=Linux&logoColor=white" />
 </p>
 
