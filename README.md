@@ -1,6 +1,6 @@
 <h1 align='center'>Hi, I'm Bereket.</h1> <br>
 
-<img align="right" src="https://myweblog.ru/img/img.png" width='500"'>
+<img align="right" src="https://o.remove.bg/downloads/14d99be4-0c4a-4416-9989-e9438d77f53b/img-removebg-preview.png" width='350"'>
 
 <p>I'm Bereket, a Web Developer from <img src="https://e7.pngegg.com/pngimages/54/55/png-clipart-regions-of-ethiopia-flag-of-ethiopia-ethiopian-empire-transitional-government-of-ethiopia-china-flag-miscellaneous-flag.png" width="13"/> <b>Ethiopia</b>, living in <img src="https://www.pinclipart.com/picdir/big/375-3753907_brought-to-you-by-canada-flag-png-icon.png" width="13"/> <b>Torono, Canada.</b> </p>
 <p>I'm passionate about science, space, artifical intelligence 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way. I am working on some side projects, learning a couple new dishes, and trying to learn a few stuff.</p>
