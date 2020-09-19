@@ -32,27 +32,27 @@ I'm a software developer who is passionate about science, artifical intelligence
 
 <p align="center">
 <a href="https://github.com/bereketsemagn">
-	<img width="32" align="left"
+	<img width="20" align="left"
 		 alt="My GitHub profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
 </a>
 <a href="https://medium.com/@semagnbereket">
-	<img width="32" align="left"
+	<img width="20" align="left"
 		 alt="My Medium profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg">
 </a>
 	<a href="mailto:bsemagn.dev@gmail.com">
-	<img width="32" align="left"
+	<img width="20" align="left"
 		 alt="My GMail profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
 </a>
 	<a href="https://stackoverflow.com/users/14000278/bereket-semagn">
-	<img width="32" align="left"
+	<img width="20" align="left"
 		 alt="My StackOverflow Profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg">
 </a>
 		<a href="https://leetcode.com/bereketsemagn" target="_blank">
-	<img width="32" align="left"
+	<img width="20" align="left"
 		 alt="My LeetCode Profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg">
 </a>
