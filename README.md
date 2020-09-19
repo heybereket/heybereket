@@ -1,7 +1,7 @@
 <h1 align='center'>⚡ Hi, I'm <a href="https://github.com/bereketsemagn">Bereket Semagn</a> ⚡</h1>
 <img align="right" src="https://o.remove.bg/downloads/14d99be4-0c4a-4416-9989-e9438d77f53b/img-removebg-preview.png" width='400"'>
 
-I'm a software developer who is passionate about science, artifical intelligence, and open source. I am originally from Ethiopia however, I'm currently living in Toronto, Canada. I can speak in English, French, and Amharic.<br>
+I'm a software developer who is passionate about science, artifical intelligence, and open source. I am originally from Ethiopia however, I'm currently living in Toronto, Canada.<br>
 
 At the moment, I'm currently working on contributing to open source projects, learning ReactJS, trying to get better at designing, and focusing on my academics. <br>
 
