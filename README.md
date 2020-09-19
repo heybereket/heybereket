@@ -35,5 +35,5 @@ My interest in software development, and creativity led me to keep contributing 
 ### 🌎 Find me around the web:
  
 - 🖥️ Learning on <a href="https://www.github.com/bereketsemagn">GitHub</a>
-- 🏓 Tinkering with interactions on <a href="https://codepen.io/bereketsemagn"> Codepen</a>
 - 💼 Sharing updates on <a href="https://www.bereketsemagn.tk">bereketsemagn.tk</a>
+- 🏓 Contact me @ <a href="bsemagn.dev@gmail.com">bsemagn.dev@gmail.com</a>
