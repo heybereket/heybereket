@@ -1,4 +1,4 @@
-<h1 align='center'>⚡ Hi, I'm Bereket Semagn. ⚡</h1> <br> <h1>I build things on the web.</h1>
+<h1 align='center'>⚡ Hi, I'm Bereket Semagn. ⚡</h1> <br> <h2 align='center'>I build things on the web.</h2>
 
 <img align="right" src="https://o.remove.bg/downloads/14d99be4-0c4a-4416-9989-e9438d77f53b/img-removebg-preview.png" width='350"'>
 
