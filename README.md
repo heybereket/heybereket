@@ -1,7 +1,7 @@
 <h1 align='center'>⚡ Hi, I'm Bereket Semagn. ⚡</h1>
 <img align="right" src="https://o.remove.bg/downloads/14d99be4-0c4a-4416-9989-e9438d77f53b/img-removebg-preview.png" width='400"'>
 
-I'm a software developer who is passionate about science, artifical intelligence, and open source. Some technologies I enjoy working with include JavaScript, Python, and API's.<br> <br> I am originally from Ethiopia, however I'm currently living in Toronto, Canada. My interest in software development, and creativity led me to keep contributing to the community, and staying motivated each and everyday.
+I'm a software developer who is passionate about science, artifical intelligence, and open source. I am originally from Ethiopia, however I'm currently living in Toronto, Canada. <br> My interest in software development, and creativity led me to keep contributing to the community, and staying motivated each and everyday.
 
 #### I've worked with:
 
