@@ -1,8 +1,7 @@
 <h1 align='center'>⚡ Hi, I'm Bereket Semagn. ⚡</h1>
 <img align="right" src="https://o.remove.bg/downloads/14d99be4-0c4a-4416-9989-e9438d77f53b/img-removebg-preview.png" width='300"'>
 
-<p>I'm Bereket, a Web Developer from <img src="https://e7.pngegg.com/pngimages/54/55/png-clipart-regions-of-ethiopia-flag-of-ethiopia-ethiopian-empire-transitional-government-of-ethiopia-china-flag-miscellaneous-flag.png" width="13"/> <b>Ethiopia</b>, living in <img src="https://www.pinclipart.com/picdir/big/375-3753907_brought-to-you-by-canada-flag-png-icon.png" width="13"/> <b>Torono, Canada.</b> </p>
-<p>I'm passionate about science, space, artifical intelligence 🐍, and open source :octocat:. I love to learn and contribute in any and every possible way. I am working on some side projects, learning a couple new dishes, and trying to learn a few stuff.</p>
+I'm a software developer who is passionate about science, artifical intelligence, and open source. Some technologies I enjoy working with include JavaScript, API's, and Python. I am originally from Ethiopia, however I'm currently living in Toronto, Canada. My interest in software development, and creativity led me to keep contributing to the community, and staying motivated each and everyday.
 
 #### I've Contributed to:
 
