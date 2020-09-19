@@ -29,7 +29,7 @@ I'm a software developer who is passionate about science, artifical intelligence
 
 ---
 
-### 🌎 Find me on the Web:
+### 🌎 Find me around the web:
 
 <p align="center">
 <a href="https://github.com/bereketsemagn">
