@@ -30,7 +30,7 @@ I'm a software developer who is passionate about science, artifical intelligence
 
 ### 🌎 Find me around the web:
 
-- Learning on <a href="https://www.github.com/bereketsemagn" target="_blank">GitHub</a> 📹 ✍🏾
+- Learning on <a href="https://www.github.com/bereketsemagn">GitHub</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/bereketsemagn"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.bereketsemagn.tk">bereketsemagn.tk</a> 💼
 
