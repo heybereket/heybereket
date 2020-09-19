@@ -37,3 +37,5 @@ My interest in software development, and creativity led me to keep contributing 
 - 🖥️ Learning on <a href="https://www.github.com/bereketsemagn">GitHub</a>
 - 🏓 Tinkering with interactions on <a href="https://codepen.io/bereketsemagn"> Codepen</a>
 - 💼 Sharing updates on <a href="https://www.bereketsemagn.tk">bereketsemagn.tk</a>
+
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg">
