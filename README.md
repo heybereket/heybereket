@@ -3,11 +3,6 @@
 
 I'm a software developer who is passionate about science, artifical intelligence, and open source. Some technologies I enjoy working with include JavaScript, API's, and Python. <br> <br> I am originally from Ethiopia, however I'm currently living in Toronto, Canada. My interest in software development, and creativity led me to keep contributing to the community, and staying motivated each and everyday.
 
-#### I've Contributed to:
-
-* [first-contributions](https://github.com/firstcontributions/first-contributions) <br>
-* [hello-open-source](https://github.com/mazipan/hello-open-source) 
-
 #### I've worked with:
 
 <p align="left"
