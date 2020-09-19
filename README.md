@@ -27,7 +27,7 @@ My interest in software development, and creativity led me to keep contributing 
   <img alt="iOS" src="https://img.shields.io/badge/-iOS-43853d?style=flat-square&logo=iOS&logoColor=white" />
   <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-43853d?style=flat-square&logo=Adobe&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-43853d?style=flat-square&logo=Android&logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/-Windows-43853d?style=flat-square&logo=Windows&logoColor=white" /> <br>
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-43853d?style=flat-square&logo=Windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-43853d?style=flat-square&logo=Linux&logoColor=white" />
 </p>
 
