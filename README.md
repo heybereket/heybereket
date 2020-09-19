@@ -1,4 +1,3 @@
-# Hi, I'm Bereket 👋🏾 👨‍💻
 <img align='center' src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width='1000"'>
 
 <p>I'm Bereket, a Web Developer from <img src="https://e7.pngegg.com/pngimages/54/55/png-clipart-regions-of-ethiopia-flag-of-ethiopia-ethiopian-empire-transitional-government-of-ethiopia-china-flag-miscellaneous-flag.png" width="13"/> <b>Ethiopia</b>, living in <img src="https://www.pinclipart.com/picdir/big/375-3753907_brought-to-you-by-canada-flag-png-icon.png" width="13"/> <b>Torono, Canada.</b> </p>
