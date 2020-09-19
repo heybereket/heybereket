@@ -3,6 +3,8 @@
 
 I'm a software developer who is passionate about science, artifical intelligence, and open source. I am originally from Ethiopia however, I'm currently living in Toronto, Canada. <br>
 
+At the moment, I'm currently working on contributing to open source projects, learning better photography skills, learning more designing, and focusing on academics. <br>
+
 My interest in software development, and creativity led me to keep contributing to the community, and staying motivated each and everyday.
 
 #### I've worked with:
