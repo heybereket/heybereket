@@ -27,7 +27,7 @@ I'm a software developer who is passionate about science, artifical intelligence
   <img alt="LaTex" src="https://img.shields.io/badge/-LaTex-43853d?style=flat-square&logo=LaTex&logoColor=white" />
   <img alt="Adobe" src="https://img.shields.io/badge/-Adobe-43853d?style=flat-square&logo=Adobe&logoColor=white" /> <br>
   <img alt="iOS" src="https://img.shields.io/badge/-iOS-43853d?style=flat-square&logo=iOS&logoColor=white" />
-  <img alt="Android" src="https://img.shields.io/badge/-Android-43853d?style=flat-square&logo=Android&logoColor=white" /> <br>
+  <img alt="Android" src="https://img.shields.io/badge/-Android-43853d?style=flat-square&logo=Android&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-43853d?style=flat-square&logo=Windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-43853d?style=flat-square&logo=Linux&logoColor=white" />
 </p>
