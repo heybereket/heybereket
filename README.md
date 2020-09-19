@@ -8,6 +8,8 @@ I'm a software developer who is passionate about science, artifical intelligence
 * [first-contributions](https://github.com/firstcontributions/first-contributions) <br>
 * [hello-open-source](https://github.com/mazipan/hello-open-source) 
 
+#### I've worked with:
+
 <p align="left"
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
