@@ -3,17 +3,7 @@
 
 I'm a software developer who is passionate about science, artifical intelligence, and open source. Some technologies I enjoy working with include JavaScript, API's, and Python. <br> <br> I am originally from Ethiopia, however I'm currently living in Toronto, Canada. My interest in software development, and creativity led me to keep contributing to the community, and staying motivated each and everyday.
 
-#### I've Contributed to:
-
-* [first-contributions](https://github.com/firstcontributions/first-contributions) <br>
-* [hello-open-source](https://github.com/mazipan/hello-open-source) 
-
----
-
-<h3 align="center"
-<h3>Languages, Frameworks, Tools, and Abilities</h3>
-
-<p align="center"
+<p align="left"
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -25,6 +15,13 @@ I'm a software developer who is passionate about science, artifical intelligence
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+#### I've Contributed to:
+
+* [first-contributions](https://github.com/firstcontributions/first-contributions) <br>
+* [hello-open-source](https://github.com/mazipan/hello-open-source) 
+
+---
 
 ---
 
