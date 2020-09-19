@@ -1,4 +1,4 @@
-# Hi, I'm Bereket 👋🏾 <img src="https://blog.joypixels.com/content/images/2019/06/zany_face_1024.gif" width='30"'>
+# Hi, I'm Bereket 👋🏾 <img src="https://blog.joypixels.com/content/images/2019/06/zany_face_1024.gif" width='50"'>
 <img align='center' src="https://i.ibb.co/tBsVyZ1/testing4smthn-1.jpg" width='1000"'>
 
 <p>I'm Bereket, a Web Developer from <img src="https://e7.pngegg.com/pngimages/54/55/png-clipart-regions-of-ethiopia-flag-of-ethiopia-ethiopian-empire-transitional-government-of-ethiopia-china-flag-miscellaneous-flag.png" width="13"/> <b>Ethiopia</b>, living in <img src="https://www.pinclipart.com/picdir/big/375-3753907_brought-to-you-by-canada-flag-png-icon.png" width="13"/> <b>Torono, Canada.</b> </p>
