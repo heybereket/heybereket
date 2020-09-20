@@ -5,8 +5,6 @@ I'm a software developer who is passionate about science, artifical intelligence
 
 At the moment, I'm currently working on contributing to open source projects, learning ReactJS, trying to get better at designing, and focusing on my academics. <br>
 
-My interest in software development, and creativity led me to keep contributing to the community, and staying motivated each and everyday. 
-
 #### I've worked with:
 
 <p align="left"
