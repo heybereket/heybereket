@@ -10,6 +10,7 @@ At the moment, I'm currently working on contributing to open source projects, le
 <p align="left"
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-45b8d8?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JSON" src="https://img.shields.io/badge/-JSON-45b8d8?style=flat-square&logo=JSON&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-45b8d8?style=flat-square&logo=jQuery&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
