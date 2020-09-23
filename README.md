@@ -11,15 +11,16 @@ At the moment, I'm currently working on contributing to open source projects, le
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-45b8d8?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JSON" src="https://img.shields.io/badge/-JSON-45b8d8?style=flat-square&logo=JSON&logoColor=white" />
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-45b8d8?style=flat-square&logo=jQuery&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
+  <img alt="JSON" src="https://img.shields.io/badge/-JSON-45b8d8?style=flat-square&logo=JSON&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-45b8d8?style=flat-square&logo=Django&logoColor=white" />
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-45b8d8?style=flat-square&logo=jQuery&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-45b8d8?style=flat-square&logo=css3&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-45b8d8?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-45b8d8?style=flat-square&logo=Bootstrap&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
