@@ -10,6 +10,7 @@ At the moment, I'm currently working on contributing to open source projects, le
 <p align="left"
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
+   <img alt="JSON" src="https://img.shields.io/badge/-JSON-45b8d8?style=flat-square&logo=JSON&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
