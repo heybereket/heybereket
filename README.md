@@ -1,7 +1,7 @@
 <h1 align='left'>hi, im bereket</h1>
 <img align="right" src="https://i.ibb.co/fDF61kQ/work-3-dribbble-01-2x-removebg-preview.png" width='400"'>
 
-I'm a software developer who is passionate about science, artifical intelligence, and open source. I am originally from Ethiopia however, I'm currently living in Toronto, Canada.<br>
+im a software developer that's 
 
 At the moment, I'm currently working on contributing to open source projects, learning ReactJS, trying to get better at designing, and focusing on my academics. <br>
 
@@ -37,7 +37,7 @@ At the moment, I'm currently working on contributing to open source projects, le
 
 ---
 
-### 🌎 Find me around the web:
+### find me:
  
 - 🧠 Learning on <a href="https://www.github.com/bereketsemagn">GitHub</a>
 - 💼 Sharing updates on <a href="https://www.bereketsemagn.tk">bereketsemagn.tk</a>
