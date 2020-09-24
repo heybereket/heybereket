@@ -1,4 +1,4 @@
-<h1 align='center'>⚡ Hi, I'm <a href="https://github.com/bereketsemagn">Bereket Semagn</a> ⚡</h1>
+<h1 align='left'>hi, im bereket</h1>
 <img align="right" src="https://i.ibb.co/fDF61kQ/work-3-dribbble-01-2x-removebg-preview.png" width='400"'>
 
 I'm a software developer who is passionate about science, artifical intelligence, and open source. I am originally from Ethiopia however, I'm currently living in Toronto, Canada.<br>
