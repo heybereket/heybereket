@@ -1,4 +1,4 @@
-<img alt="Logo" src="https://i.ibb.co/pZyp7BL/download-3.png" width="30"></div> <h1>hi, im bereket</h1>
+<img alt="Logo" src="https://i.ibb.co/pZyp7BL/download-3.png" width="30"><h1>hi, im bereket</h1>
 
 [![bereketsemagn.tk](https://img.shields.io/badge/-BEREKETSEMAGN.TK-000?style=for-the-badge&logo=react&logoColor=fff)](https://www.adamalston.com/)
 
