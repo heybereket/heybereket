@@ -1,11 +1,10 @@
 <h1 align='left'>hi, im bereket</h1>
 <img align="right" src="https://i.ibb.co/fDF61kQ/work-3-dribbble-01-2x-removebg-preview.png" width='400"'>
 
-im a software developer that's 
+im a software developer that's passionate about <strong>artifical intelligence</strong>, physics, amd robotics <br>
+as of right now, im learning react, and contributing to open source projects
 
-At the moment, I'm currently working on contributing to open source projects, learning ReactJS, trying to get better at designing, and focusing on my academics. <br>
-
-#### I've worked with:
+#### im famiiar with
 
 <p align="left"
 <p>
@@ -37,7 +36,7 @@ At the moment, I'm currently working on contributing to open source projects, le
 
 ---
 
-### find me:
+### find me here:
  
 - 🧠 Learning on <a href="https://www.github.com/bereketsemagn">GitHub</a>
 - 💼 Sharing updates on <a href="https://www.bereketsemagn.tk">bereketsemagn.tk</a>
