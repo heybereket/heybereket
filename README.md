@@ -1,10 +1,12 @@
 <h1 align='left'>hi, im bereket</h1>
 <img align="right" src="https://i.ibb.co/fDF61kQ/work-3-dribbble-01-2x-removebg-preview.png" width='400"'>
 
-im a software developer that's passionate about <strong>artifical intelligence</strong>, physics, amd robotics <br>
+im a software developer that's passionate about <strong>artifical intelligence</strong>, and robotics <br>
+<br>
+
 as of right now, im learning react, and contributing to open source projects
 
-#### im famiiar with
+#### i love: 
 
 <p align="left"
 <p>
@@ -38,6 +40,6 @@ as of right now, im learning react, and contributing to open source projects
 
 ### find me here:
  
-- 🧠 Learning on <a href="https://www.github.com/bereketsemagn">GitHub</a>
-- 💼 Sharing updates on <a href="https://www.bereketsemagn.tk">bereketsemagn.tk</a>
-- 💬 Contact me @ <a href="bsemagn.dev@gmail.com">bsemagn.dev@gmail.com</a>
+<a href="https://www.github.com/bereketsemagn">gitHub</a>
+<a href="https://www.bereketsemagn.tk">portfolio</a>
+<a href="bsemagn.dev@gmail.com">email</a>
