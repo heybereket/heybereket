@@ -4,7 +4,7 @@
 im a software developer that's passionate about <strong>artifical intelligence</strong>, and robotics
 <br>
 
-as of right now, im learning react, and contributing to open source projects
+i like contributing to open source projects, so you might see me doing a lot of that
 
 #### i love: 
 
