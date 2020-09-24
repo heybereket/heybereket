@@ -40,6 +40,6 @@ i like contributing to open source projects, because it's fun
 
 ### find me here:
  
-<a href="https://www.github.com/bereketsemagn">gitHub</a>
-<a href="https://www.bereketsemagn.tk">portfolio</a>
+<a href="https://www.github.com/bereketsemagn">gitHub</a> <br>
+<a href="https://www.bereketsemagn.tk">portfolio</a> <br>
 <a href="bsemagn.dev@gmail.com">email</a>
