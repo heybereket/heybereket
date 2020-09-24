@@ -1,6 +1,6 @@
 # hi, im bereket
 
-### languages:
+### i use:
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=007ACC)
@@ -8,17 +8,12 @@
 ![CSS](https://img.shields.io/badge/-CSS3-000?style=flat&logo=Swift)
 ![LaTex](https://img.shields.io/badge/-LaTex-000?style=flat&logo=MySQL)
 ![JSON](https://img.shields.io/badge/-JSON-000?style=flat&logo=Clojure)
-
-### tools:
 ![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=Amazon-AWS&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032)
 ![Jira](https://img.shields.io/badge/-Jira-000?style=flat&logo=jira-software&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React&logoColor=61DAFB)
-
-### frameworks:
-
 ![Spring](https://img.shields.io/badge/-Spring-000?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000?style=flat&logo=cisco&logoColor=fff)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?style=flat&logo=Terraform&logoColor=623CE4)
