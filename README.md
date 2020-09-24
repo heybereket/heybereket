@@ -1,6 +1,6 @@
 # hi, im bereket
 
-### i use:
+### i code with:
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript&logoColor=007ACC)
