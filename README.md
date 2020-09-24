@@ -4,7 +4,7 @@
 im a software developer that's passionate about <strong>artifical intelligence</strong>, and robotics
 <br>
 
-i like contributing to open source projects, so you might see me doing a lot of that
+i like contributing to open source projects, because it's fun
 
 #### i love: 
 
