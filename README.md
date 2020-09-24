@@ -9,7 +9,7 @@ i like contributing to open source projects, because it's fun
 
 ### find me here:
  
-<a href="https://www.github.com/bereketsemagn"><img src="https://cdn.onlinewebfonts.com/svg/img_279371.png" width="30"></a> <br>
-<a href="https://www.twitter.com/bereketsemagn"><img src="https://www.iconfinder.com/data/icons/social-media-logos-linear-black/614/5294_-_Twitter_I-512.png" width="30"></a> <br>
+<a href="https://www.github.com/bereketsemagn"><img src="https://cdn.iconscout.com/icon/free/png-256/github-153-675523.png" width="30"></a> <a href="https://www.twitter.com/bereketsemagn"><img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" width="40"></a>
+
 <a href="https://www.bereketsemagn.tk">portfolio</a> <br>
-<a href="bsemagn.dev@gmail.com">email</a>
+<a href="bsemagn.dev@gmail.com"><img src="https://vignette.wikia.nocookie.net/encyclopedia/images/a/a9/1024px-Gmail_Icon.png/revision/latest?cb=20181126114403" width="40"></a>
