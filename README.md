@@ -1,7 +1,7 @@
 <h1 align='left'>hi, im bereket</h1>
 <img align="right" src="https://i.ibb.co/fDF61kQ/work-3-dribbble-01-2x-removebg-preview.png" width='400"'>
 
-im a software developer that's passionate about <strong>artifical intelligence</strong>, and robotics <br>
+im a software developer that's passionate about <strong>artifical intelligence</strong>, and robotics
 <br>
 
 as of right now, im learning react, and contributing to open source projects
