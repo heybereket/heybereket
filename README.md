@@ -1,11 +1,9 @@
 <h1 align='left'>hi, im bereket</h1>
 
-im a software developer that's passionate about <strong>artifical intelligence</strong>, and robotics
+im a software developer that's passionate about articial intelligence, and robotics
 <br>
 
 i like contributing to open source projects, because it's fun
-
-#### i can use these things well:
 
 ---
 
