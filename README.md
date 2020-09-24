@@ -6,7 +6,7 @@ im a software developer that's passionate about <strong>artifical intelligence</
 
 i like contributing to open source projects, because it's fun
 
-#### i love: 
+#### i can use these things well:
 
 <p align="left"
 <p>
