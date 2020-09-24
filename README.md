@@ -15,7 +15,7 @@
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React&logoColor=61DAFB)
 
 ### Projects:
-![Spring](https://img.shields.io/badge/-Spring-000?style=flat&logo=spring&logoColor=6DB33F)
+![https://github.com/bereketsemagn](https://img.shields.io/badge/-covoo-000?style=flat&logo=Spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000?style=flat&logo=cisco&logoColor=fff)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?style=flat&logo=Terraform&logoColor=623CE4)
 [![Portfolio](https://img.shields.io/badge/-🧬&nbsp;Portfolio-000?style=flat)](https://github.com/adamalston/v2)
