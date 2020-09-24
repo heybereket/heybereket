@@ -11,6 +11,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-000?style=flat&logo=Clojure)
 ![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=Amazon-AWS&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032)
+![Windows](https://img.shields.io/badge/-Windows-000?style=flat&logo=windows&logoColor=FCC624)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=FCC624)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=React&logoColor=61DAFB)
 
