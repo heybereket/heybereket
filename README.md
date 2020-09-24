@@ -1,5 +1,4 @@
-<h1>hi, im bereket</h1>
-
+<h1>hi, im bereket</h1> <br>
 [![bereketsemagn.tk](https://img.shields.io/badge/-BEREKETSEMAGN.TK-000?style=for-the-badge&logo=&logoColor=fff)](https://www.bereketsemagn.tk/)
 
 **Languages**
