@@ -35,7 +35,7 @@
 [![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000?style=flat)](https://github.com/adamalston/rgbTextColorizer)
 [![ColdOps](https://img.shields.io/badge/-🧊&nbsp;ColdOps-000?style=flat)](https://github.com/adamalston/ColdOps)
 
-View more <a href="https://github.com/bereketsemagn?tab=repositories"><a>here.</a>
+View more [here.](https://github.com/bereketsemagn?tab=repositories)
 
 <a href="https://twitter.com/bereketsemagn/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.instagram.com/bereketsemagn/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
