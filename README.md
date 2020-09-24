@@ -18,7 +18,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?style=flat&logo=spring&logoColor=6DB33F)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000?style=flat&logo=cisco&logoColor=fff)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?style=flat&logo=Terraform&logoColor=623CE4)
-[![bereketsemagn.tk - v1](https://img.shields.io/badge/-🧬&nbsp;My&nbsp;Website-000?style=flat)](https://github.com/adamalston/v2)
+[![Portfolio](https://img.shields.io/badge/-🧬&nbsp;Portfolio-000?style=flat)](https://github.com/adamalston/v2)
 [![COVID-19 Dashboard](https://img.shields.io/badge/-🦠&nbsp;COVID&#8209;19&nbsp;Dashboard-000?style=flat)](https://github.com/adamalston/COVID-19-Dashboard)
 [![Summarizer](https://img.shields.io/badge/-Summarizer-000?style=flat&logo=read-the-docs&logoColor=21c1fc)](https://github.com/adamalston/Summarizer)
 [![Voice Poker](https://img.shields.io/badge/-Voice&nbsp;Poker-000?style=flat&logo=audiomack&logoColor=eb3f8b)](https://github.com/adamalston/Poker)
