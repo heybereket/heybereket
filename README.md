@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/68jM9B6/Capture.png" width="1000" height="300">
+<img src="https://i.ibb.co/TvWmBCd/Capture.png" width="1000" height="300">
 
 im a software developer that's passionate about articial intelligence, and robotics
 <br>
