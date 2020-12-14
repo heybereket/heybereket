@@ -4,4 +4,4 @@ I'm a programmer who is passionate about 🤖 artificial intelligence (AI), love
 
 💙 I've built some stuff on the web including my most notable projects like - Astro Theme for VSCode, Blob AI, open-source contributions, and more!
 
-![Profile views](https://gpvc.arturio.dev/addissemagn)
+![Profile views](https://gpvc.arturio.dev/bereketsemagn)
