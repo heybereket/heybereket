@@ -6,8 +6,3 @@ Feel free to reach me @ imbereket@gmail.com
 <b>Notable projects: </b>
 - Lunar Theme for Visual Studio Code 
 - Color Spark for Figma
-
-<b>Contributions: </b>
-- HospitalRun
-- Flutter
-- React
