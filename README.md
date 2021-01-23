@@ -1,7 +1,13 @@
-<h1><b>👋🏽 hi nerds, im bereket! ツ</b></h1>
+<h1><b>👋🏽 heyo, im bereket! ツ</b></h1>
 
-I'm a programmer who is passionate about 🤖 artificial intelligence (AI), loves to contribute to open-source projects, and enjoys coding in a variety of programming languages. I enjoy doing both backend and frontend, but I'm not really into mobile development. Besides coding and all that, I love to bike, go on walks, explore, and meet new people! Check out some of my pinned projects and some of my other repositories if you'd like to find out more about my projects, code, and what I love to do!
+In my free time, you can catch me bike riding, walking, exploring, and talking to new people :) <br>
+Feel free to reach me @ imbereket@gmail.com
 
-💙 I've built some stuff on the web including my most notable projects like - Astro Theme for VSCode, Blob AI, open-source contributions, and more!
+<b>Notable projects: </b>
+- Lunar Theme for Visual Studio Code 
+- Color Spark for Figma
 
-![Profile views](https://gpvc.arturio.dev/bereketsemagn)
+<b>Contributions: </b>
+- HospitalRun
+- Flutter
+- React
